@@ -43,7 +43,7 @@
 				</executions>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 					<skipTests>${skipTests}</skipTests>
 					<testFailureIgnore>true</testFailureIgnore>
